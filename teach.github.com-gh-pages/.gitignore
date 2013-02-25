@@ -1,0 +1,9 @@
+/.bundle/
+/.ruby-version
+/bin/
+/vendor/gems/
+.DS_Store
+.sass-cache/
+_site
+teach-github.sublime-project
+teach-github.sublime-workspace
