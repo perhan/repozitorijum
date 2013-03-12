@@ -278,6 +278,8 @@ Held on 2012-11-02 and 2012-11-03 and taught by Matthew McCullough ([Twitter](ht
     ghi list
     ghi
     ghi show 10
+    
+    ово ће морати да изазове неки ерор, али ста да се ради. битно је тестирање!
 
     git ls-files 
     git ls-files -m
