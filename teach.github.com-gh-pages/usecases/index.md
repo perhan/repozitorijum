@@ -8,3 +8,6 @@ showinnav: true
 
 {% assign selectedcategory = site.categories.usecases %}
 {% include categorycontents %}
+
+
+//suma sumarum 1
